@@ -1,0 +1,18 @@
+#clock {
+  position: absolute;
+  top: 32%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #31e2e2;
+  font-size: 100px;
+  font-family: Orbitron;
+  letter-spacing: 7px;
+
+}
+
+
+#app-title {
+  color: #31e2e2;
+  font-size: 70px;
+  text-align: center;
+}
